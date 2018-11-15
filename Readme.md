@@ -1,3 +1,12 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [CustomFilterColumn.cs](./CS/B217847Example/Custom/CustomFilterColumn.cs) (VB: [CustomFilterColumn.vb](./VB/B217847Example/Custom/CustomFilterColumn.vb))
+* [FilterAdapter.cs](./CS/B217847Example/Custom/FilterAdapter.cs) (VB: [FilterAdapter.vb](./VB/B217847Example/Custom/FilterAdapter.vb))
+* [DataTableHelper.cs](./CS/B217847Example/DataHelpers/DataTableHelper.cs) (VB: [DataTableHelper.vb](./VB/B217847Example/DataHelpers/DataTableHelper.vb))
+* [Form1.cs](./CS/B217847Example/Form1.cs) (VB: [Form1.vb](./VB/B217847Example/Form1.vb))
+* [Program.cs](./CS/B217847Example/Program.cs) (VB: [Program.vb](./VB/B217847Example/Program.vb))
+<!-- default file list end -->
 # How to use the CheckedComboBox control when editing IsAnyOf and IsNoneOf operands
 
 
